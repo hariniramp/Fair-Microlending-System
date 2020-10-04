@@ -25,3 +25,6 @@ model, using agglomerative clustering. For the implicit feedback problem, we fol
 factor model and included a neighborhood fairness term in the Alternating Least Square (ALS) cost
 function. We used techniques like gradient descent to update preferences for user-item pairs, based
 on preferences in previous iterations.
+
+The dataset used was too large to upload but can be found here: https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding. 
+The two main datasets used are: kiva_loans.csv and kiva_mpi_region_locations.csv
